@@ -20,5 +20,5 @@ while True:
         print("Erro: A senha deve conter pelo menos 1 letra.")
         continue
     
-    print("Senha válida!")
+    print("Senh válida!")
     break
