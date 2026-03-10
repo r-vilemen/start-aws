@@ -1,7 +1,7 @@
 
 # 🚀 Start AWS - Python Atividades
 
-Bem-vindo ao repositório de atividades Python do curso **Start AWS**!
+Bem-vindo ao repositório de atividades Python do curso **Start AW**!
 
 ## 📚 Sobre este Projeto
 
